@@ -1,6 +1,7 @@
 ---
 name: amanda-deflavor
-display_name: Amanda 去 AI 味评分器
+slug: amanda-deflavor
+displayName: Amanda 去 AI 味评分器
 description: Amanda 公众号/口播稿专用「去 AI 味 + 数字分评估（scale）」。输入任意中文草稿，输出 0-100 AI味分（0=最干净；<30 可发布；≤22 优）、L1-L4 四层报告与去味成稿。复用 humanizer v4.1 规则并叠加 Amanda 红线词。
 version: 1.0.0
 author: Amanda
